@@ -1,0 +1,15 @@
+{
+    "name": "hwmarcos/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Helder W Marcos",
+            "email": "helderwmarcos@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
